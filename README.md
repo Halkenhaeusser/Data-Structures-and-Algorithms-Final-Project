@@ -1,2 +1,10 @@
-# Data-Structures-and-Algorithms-Final-Project
-Data Structures and Algorithms course at Hertie. Core course for the Masters of Data Science for Public Policy
+# Data Structures and Algorithms Final Project
+Final Project for the Data Structures and Algorithms course at Hertie. 
+
+## Preaching the Gospel 
+### Do politicians tweet what is written in their party programme?
+
+Carlo Greß
+Lukas Warode
+Johannes Halkenhaeusser
+
