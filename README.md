@@ -11,6 +11,8 @@ Final Project for the Data Structures and Algorithms course at Hertie.
 
 
 # Next Steps
+* Wir muessen vor jedem code chuck im Markdown documenten (sagt Hannah).
+    * nicht zu viele sachen printen und inline comments sind nur fuer uns. 
 * Which politician(s) do we want?
 * which similarity measure should we use? 
 * What's the targeted code architecture?
