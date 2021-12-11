@@ -31,10 +31,6 @@ Final Project for the Data Structures and Algorithms course at Hertie.
     * Carlo: Documentation and explanation of the similarity measures
         - was kann man wie plotten (an tweets und an similarity metrics.)
 
-Aufbau
-    - Party programm --> txt.type
-    - Tweets --> csv-file
-    - controller: accesses the files from data and preps them for viewer
-    - Viewer gets the files passed from controller and does the nlp part 
-        * tfitf
-        * cosine similarity 
+
+TO-DO DOC
+https://docs.google.com/document/d/1YSW1LRMeawh-gb4fRbuEbdgbr9xOKrc9v789Zp7U8uk/edit 
