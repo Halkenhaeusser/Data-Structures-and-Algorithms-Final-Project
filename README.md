@@ -10,6 +10,9 @@ Final Project for the Data Structures and Algorithms course at Hertie.
 
 
 
+## Where to download the language models:
+- 
+
 # Agenda
 * Wir muessen vor jedem code chuck im Markdown documenten (sagt Hannah).
     * nicht zu viele sachen printen und inline comments sind nur fuer uns. 
