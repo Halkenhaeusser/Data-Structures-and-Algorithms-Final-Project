@@ -18,10 +18,10 @@ In this project, we are examining whether the tweets of German Members of Parlia
 
 In order to run our analysis, please run the following notebooks in this order: 
 
-1. data_preprocessing (Prepare twitter data)
-2. party_programmes  (Prepare party programme data)
-3. tweepy_test_setup (Prepare twitter data)
-4. analysis (Final analysis, matching programme and tweet contents)
+1. 01_data_preprocessing (Prepare twitter data)
+2. 02_party_programmes  (Prepare party programme data)
+3. 03_tweepy_test_setup (Prepare twitter data)
+4. 04_analysis (Final analysis, matching programme and tweet contents)
 
 
 ## Where to download the language models:
