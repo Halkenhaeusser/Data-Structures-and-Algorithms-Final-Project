@@ -9,9 +9,26 @@ Final Project for the Data Structures and Algorithms course at Hertie.
 * Johannes Halkenhaeusser
 
 
+# Project Summary
+
+In this project, we are examining whether the tweets of German Members of Parliament (MP) are tweeting accordingly to their respective party's programme. More specifically, we are transforming the content of both the party programmes and the tweets into numeric vectors and calculating their cosine similarity. For this purpose, we are using the ``tweepy`` library that allows us to store the tweets of German MPs. For reasons of simplicity, we are only considering the Green MP **Annalena Baerbock** to illustrate the functionality of our code.   
+
+
+## Order of files to run
+
+In order to run our analysis, please run the following notebooks in this order: 
+
+1. data_preprocessing (Prepare twitter data)
+2. party_programmes  (Prepare party programme data)
+3. tweepy_test_setup (Prepare twitter data)
+4. analysis (Final analysis, matching programme and tweet contents)
+
 
 ## Where to download the language models:
-- 
+
+- https://fasttext.cc/docs/en/pretrained-vectors.html
+- https://fasttext.cc/docs/en/crawl-vectors.html
+
 
 # Agenda
 * Wir muessen vor jedem code chuck im Markdown documenten (sagt Hannah).
