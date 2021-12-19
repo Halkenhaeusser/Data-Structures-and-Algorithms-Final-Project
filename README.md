@@ -20,8 +20,7 @@ In order to run our analysis, please run the following notebooks in this order:
 
 1. 01_data_preprocessing (Prepare twitter data)
 2. 02_party_programmes  (Prepare party programme data)
-3. 03_tweepy_test_setup (Prepare twitter data)
-4. 04_analysis (Final analysis, matching programme and tweet contents)
+3. 03_analysis (Final analysis, matching programme and tweet contents)
 
 
 ## Where to download the language models:
@@ -30,27 +29,7 @@ In order to run our analysis, please run the following notebooks in this order:
 - https://fasttext.cc/docs/en/crawl-vectors.html
 
 
-# Agenda
-* Wir muessen vor jedem code chuck im Markdown documenten (sagt Hannah).
-    * nicht zu viele sachen printen und inline comments sind nur fuer uns. 
-* Which politician(s) do we want?
---> person with most followers. 
---> Annalena Baerbock 
-* which similarity measure should we use?
---> Johannes sucht sich ein oder zwei aus.  
-* What's the targeted code architecture?
-* Who does what? (Johannes' suggestion)
-    * Write an Email to Simon to discusss project generally
-    * Lukas: get twitter data, save and process it, for one MP from each party?
-    * Johannes: Code functions for similarity (maybe not all of them haha)
-        - zusammengehoerende Woerter
-        - remove stopwords
-        - lemmatize
-        - remove stopwords again
-        - find similarity metrics
-    * Carlo: Documentation and explanation of the similarity measures
-        - was kann man wie plotten (an tweets und an similarity metrics.)
-
-
-TO-DO DOC
-https://docs.google.com/document/d/1YSW1LRMeawh-gb4fRbuEbdgbr9xOKrc9v789Zp7U8uk/edit 
+# Contribution
+* Lukas Warode: Chief Twitter Acquistion Officer
+* Johannes M. Halkenhaeusser: Chief NLP Officer
+* Carlo Greß: Chief of Communication and Knowledge Management
