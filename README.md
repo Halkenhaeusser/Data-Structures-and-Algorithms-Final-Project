@@ -1,5 +1,5 @@
 # Data Structures and Algorithms Final Project
-Final Project for the Data Structures and Algorithms course at Hertie. 
+Final Project for the Data Structures and Algorithms course at the Hertie School with Dr. Bechara. 
 
 ## Preaching the Gospel 
 ### Do politicians tweet what is written in their party programme?
